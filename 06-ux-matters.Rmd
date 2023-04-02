@@ -243,7 +243,7 @@ Of course, this is not an absolute rule, and there is always room for creativity
 Weirdly enough, that is an easy thing to spot when we arrive on a web page or an app: it can either feel "natural", or you can immediately see that something is off.
 The hard thing is that it is something you spot when you are a new-comer: developing the app makes us so familiar with the app that we might miss when something is not used the way it is conventionally used.[^ux-matters-4]
 
-[^ux-matters-4]: For a good summary of these, see "The cranky user: The Principle of Least Astonishmen" <https://www.ibm.com/developerworks/web/library/us-cranky10/us-cranky10-pdf.pdf>
+[^ux-matters-4]: For a good summary of these, see "The cranky user: The Principle of Least Astonishmen" <https://news.plethora.net/ops/ibm/cranky10.html>
 
 Let's exemplify this with the "Render" button from the [`{tidytuesday201942}`](https://connect.thinkr.fr/tidytuesday201942/) application.
 This app is built on top of Bootstrap 4, which has no CSS class for a `{shiny}` action button.[^ux-matters-5]
